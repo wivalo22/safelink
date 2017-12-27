@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2017/12/what-is-asbestos.html"}
 if(x=="2"){xxx="/2017/12/choosing-mesothelioma-or-asbestos-attorney.html"}
 if(x=="3"){xxx="/2017/12/asbestos-exposure-diseases.html"}
 if(x=="4"){xxx="/2017/12/asbestos-lung-cancer.html"}
-if(x=="5"){xxx="/2017/12/asbestos-testing-process.html"}a_to_ve[i].href="https://www.asbestos-information.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2017/12/asbestos-testing-process.html"}a_to_ve[i].href="http://www.asbestos-information.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
